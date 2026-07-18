@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="AI Model Trainer" width="100%">
+<img src="assets/banner.svg" alt="AI Model Trainer" width="100%"> 
 
 **A lightweight command-line toolkit for fine-tuning, merging, exporting, and testing Large Language Models using LoRA and QLoRA — built to run on modest, consumer-grade GPUs.**
 
