@@ -1,0 +1,37 @@
+training:
+
+  output_dir: "./outputs"
+
+  adapter_dir: "./models/adapters"
+
+  epochs: 3
+
+  batch_size: 1
+
+  gradient_accumulation_steps: 32
+
+  learning_rate: 0.0002
+
+  warmup_ratio: 0.03
+
+  weight_decay: 0.01
+
+  logging_steps: 10
+
+  save_steps: 100
+
+  save_total_limit: 2
+
+  fp16: true
+
+  bf16: false
+
+  max_seq_length: 128
+
+  packing: false
+
+  optim: "paged_adamw_8bit"
+
+  lr_scheduler: "cosine"
+
+  seed: 42

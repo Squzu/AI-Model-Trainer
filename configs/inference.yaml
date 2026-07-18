@@ -1,0 +1,13 @@
+inference:
+
+  adapter_path: "./models/adapters"
+
+  max_new_tokens: 512
+
+  temperature: 0.7
+
+  top_p: 0.9
+
+  top_k: 40
+
+  do_sample: true

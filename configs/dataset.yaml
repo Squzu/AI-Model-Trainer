@@ -1,0 +1,12 @@
+dataset:
+
+  train_file: "./datasets/processed/train.json"
+
+  validation_file: "./datasets/processed/validation.json"
+
+  text_column: "text"
+
+  shuffle: true
+
+  validation_split: 0.1
+
