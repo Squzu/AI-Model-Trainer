@@ -139,7 +139,7 @@ This prints your Python version, whether Git/CMake/G++ are available, your GPU n
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/AI-Model-Trainer.git
+git clone https://github.com/squzu/AI-Model-Trainer.git
 cd AI-Model-Trainer
 ```
 
